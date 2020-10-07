@@ -1,1 +1,4 @@
-puts "Hello World!"
+main()
+{
+  printf("Hello World");
+}
